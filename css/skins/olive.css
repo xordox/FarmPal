@@ -1,0 +1,134 @@
+/* Timothy Framework - www.timothyframework.com */
+/* This work is licensed under the MIT License - http://www.opensource.org/licenses/mit-license.php */
+
+
+/* Color Legend 
+
+font-family: 'Abel', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Mate SC', serif;
+font-family: 'Bilbo', cursive;
+
+*/
+
+body		{ background-image:url(../../images/bg/olive-bg.jpg); background-repeat:repeat;	}
+
+/* Tables */
+
+#sample-table        				{ 	}
+
+#sample-table tr					{	}
+#sample-table .odd					{ background-color:#eee; }
+#sample-table .even					{ background-color:#fff; }
+
+#sample-table th          			{ 	}
+#sample-table thead, #sample-table th   { background-color:#FFE0C1;  }
+
+#sample-table tbody					{    }
+
+#sample-table th, #sample-table td		{  	}
+#sample-table caption 				{ 	}
+
+#sample-table tfoot       			{	}
+#sample-table .tfooter				{ background-color:#ccc; }
+
+#sample-table caption     			{ background-color:#FFE0C1;  }
+#sample-table tfoot td				{ background-color:#FFE0C1; }
+
+
+/* Containers */
+
+#wrapper 				{ background-color:#fff; border-top:10px #836D47 solid; }
+
+#top	 				{    }
+
+#name	 			{ width:225px; height:108px; background-image:url(../../images/farmPalLogo.jpg);
+						background-repeat:no-repeat;   }
+#manchester			{ color:#000;	}					
+#design-studio			{ color:#836D47;	}
+
+#social-media			{ 	}
+#social-media ul 		{	}
+#social-media ul li		{ 	}
+#social-media img		{ 	}
+
+#social-media p		{ 	}
+
+#topnav 				{ 	}
+#topnav ul			{ 	}
+#topnav ul li			{ 	}
+#topnav ul li a		{ 	}
+
+#topnav a:link			{ 	}
+#topnav a:visited		{ 	}
+#topnav a:active		{ 	}
+#topnav a:hover		{ 	}
+#topnav a:focus		{ 	}
+
+#banner 				{    }
+
+#rightside 			{   }
+#rightside h2			{ color:#836D47;	}
+#rightside h3			{ color:#836D47;	 }
+#rightside p			{ 	}
+#rightside .image		{ 	}
+#rightside li			{	}
+#rightside a			{	}
+
+#rightside a:link		{ color:#000;	}
+#rightside a:visited	{ color:#000;	}
+#rightside a:active		{ color:#000;	}
+#rightside a:hover		{ color:#6E381E;	}
+#rightside a:focus		{ color:#6E381E;	}
+
+#content 				{	 }
+#content h1			{ color:#000; }
+#content h2			{ color:#6E381E;	}
+#content h3			{ color:#6E381E;	}
+#content p			{ 	}
+#content img			{ 	}
+#content li			{ 	}
+#content a			{	}
+
+#content a:link		{ color:#000;	}
+#content a:visited		{ color:#000;	}
+#content a:active		{ color:#000;	}
+#content a:hover		{ color:#6E381E;	}
+#content a:focus		{ color:#6E381E;	}
+
+#sample-popup h3		{ 	}
+#sample-popup h4		{ color:#6E381E; }
+#sample-popup p		{ 	}
+#sample-popup img		{ 	}
+
+#gallery				{	}
+#gallery ul li			{ 	}
+#gallery img			{ 	}
+
+#faqs img				{	}
+#faqs p				{ 	}
+#faqs h4				{ 	}
+						
+#products				{	}
+#products	h3			{ 	}
+#products h4			{ 	}
+#products p			{ 	}
+#products img			{ 	}
+
+#footer 				{ 	}
+#footer a				{ 	}
+				
+#footer a:link			{ color:#000;	}
+#footer a:visited		{ color:#000;	}
+#footer a:active		{ color:#000;	}
+#footer a:hover		{ color:#6E381E;	}
+#footer a:focus		{ color:#6E381E;	}
+				
+#box1 img, #box2 img 	{  border:8px #6E381E solid;	}
+
+
+
+/* Miscellaneous  */
+
+.footer-text		{ color:#333;  }
+

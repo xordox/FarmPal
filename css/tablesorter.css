@@ -1,0 +1,22 @@
+/* Timothy Framework - www.timothyframework.com */
+/* This work is licensed under the MIT License - http://www.opensource.org/licenses/mit-license.php */
+
+
+/* Color Legend */
+
+
+
+table.tablesorter thead tr .header {
+	background-image: url(../table_sorter/images/bg.html);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(../table_sorter/images/asc.html);
+}
+
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(../table_sorter/images/desc.html);
+}
